@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    border:solid 1px black;max-width:100vw
+;    
+}
+.titel-red{
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    background-color: blanchedalmond;
+}
